@@ -834,7 +834,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     not_started_2: "Nie rozpoczęto"
     view_solution: "Kliknij, aby obejrzeć rozwiązanie."
     latest_achievement: "Ostatnie osiągnięcia"
-    playtime: "Czas gyr"
+    playtime: "Czas gry"
     last_played: "Ostatnio grany"
 #    leagues_explanation: "Play in a league against other clan members in these multiplayer arena instances."
 
